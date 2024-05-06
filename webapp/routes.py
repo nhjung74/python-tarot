@@ -98,4 +98,3 @@ def specific_card(card_url):
 							    sequence = my_card['sequence'],
 							    cardtype = my_card['cardtype'])
 
-
